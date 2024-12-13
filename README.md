@@ -2,7 +2,7 @@
 
 GitHub Repository: https://github.com/porterrigby/HRI_Final_Project
 
-All code used for the project is contained within the GitHub repository above. 
+All code used for the project is contained within this GitHub repository. 
 Retico runner files used for each experiment live within the runners/ directory, and
 should run as-is assuming all dependencies are present on the local system. The data/
 directory holds of the timing data that was collected for experiment 1, as well as
