@@ -5,10 +5,10 @@ GitHub Repository: https://github.com/porterrigby/HRI-Final-Project
 All code used for the project is contained within this GitHub repository. 
 Retico runner files used for each experiment live within the runners/ directory, and
 should run as-is assuming all dependencies are present on the local system. The data/
-directory holds of the timing data that was collected for experiment 1, as well as
+directory holds all of the timing data that was collected for experiment 1, as well as
 the Jupyter Notebook where data analysis was performed. The src/ directory contains
-all of the module files required for the runners to function. Below is directions to
-use each runner file.
+all of the module files required for the runners to function. Below are directions for
+using each runner file.
 
 grounding_runner.py
 - requires that mic_runner.py is also running
