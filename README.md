@@ -23,5 +23,3 @@ timing_runner.py
 - `python timing_runner.py <rtdetr | yolov8 | yolov11> <model size to use> <confidence threshold> <number of samples to take> <output file>`
 - a script is available in the root directory of the repository called `timings.sh`, 
 and was used for automating data collection for experiment 1.
-
-If the above instructions do not function as expected, contact me at porterrigby@u.boisestate.edu
